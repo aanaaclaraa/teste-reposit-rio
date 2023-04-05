@@ -17,5 +17,5 @@ function exibenome()
 function number()
 {
     let num1 = document.getElementById( "number" ).value; 
-    document.getElementById( "resultado1" ).innerHTML = " number " + numero;
+    document.getElementById( "resultado1" ).innerHTML = "soma " + somar;
 }
