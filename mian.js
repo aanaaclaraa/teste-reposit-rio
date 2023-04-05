@@ -1,5 +1,1 @@
-alert( "Seja bem vindo ao GitHub Pages");
-
-alert( "Seja bem vindo ao Senai");
-
-alert( "Bem vinda Ana");
+document.body.style.backgroundColor = "red";
