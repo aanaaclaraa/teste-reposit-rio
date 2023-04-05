@@ -13,3 +13,9 @@ function exibenome()
     document.getElementById( "mensagem" ).innerHTML = "Meu nome é: " + usuario;
     document.getElementById( "nome" ).value = "";
 }
+
+function number()
+{
+    let num1 = document.getElementById( "number" ).value; 
+    document.getElementById( "resultado1" ).innerHTML = "soma " + somar;
+}
