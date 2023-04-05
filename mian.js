@@ -12,7 +12,7 @@ document.getElementById( "btn-dividir" ).addEventListener( "click" , dividir );
 
 function showcolor()
 {
-    document.body.style.backgroundColor = "red"; 
+    document.body.style.backgroundColor = "yellow"; 
 }
 
 function exibenome()
